@@ -1,4 +1,4 @@
-# <div align="center">🌐 Welcome to the Neural Network 🌐</div>
+# <div align="center">🌐 Welcome to the Keyboard World  🌐</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Uzair+Ul+Haq;Cybernetic+Sentinel;Threat+Architect;Digital+Defender" alt="Typing SVG" />
@@ -84,8 +84,8 @@ Here are some of my notable cybersecurity projects, forged in the digital crucib
 
 </div>
 
-- 🏆 CompTIA Security+
-- 🏆 Certified Ethical Hacker (CEH)
+- 🏆 Cisco Certfied Ethical Hacker
+- 🏆 Google Cyber Secuirty Professional 
 
 ### <span style="color:#39FF14;">📊 Neural Network Statistics</span>
 
@@ -98,7 +98,7 @@ Here are some of my notable cybersecurity projects, forged in the digital crucib
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uzair-haq&layout=compact&theme=tokyonight&border_color=00FFFF&title_color=FF00FF" />
 </div>
 
-### <span style="color:#39FF14;">🌐 Connect in the Network</span>
+### <span style="color:#39FF14;">🌐 Connect with me </span>
 
 <div align="center">
   
@@ -118,5 +118,5 @@ Here are some of my notable cybersecurity projects, forged in the digital crucib
   <img src="https://komarev.com/ghpvc/?username=uzair-haq&color=00FFFF&style=for-the-badge&label=NEURAL+CONNECTIONS" />
 </div>
 
-*This profile README was augmented by an AI assistant to immerse you in the cyberpunk aesthetic. Feel free to further customize your digital identity and showcase your unique experiences and achievements!*
+* Pookies codes!*
 
