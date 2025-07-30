@@ -1,4 +1,4 @@
-# <div align="center">🌐 Welcome to the Keyboard World  🌐</div>
+# <div align="center">🌐 Welcome to My Keyboard~  🌐</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Uzair+Ul+Haq;Cybernetic+Sentinel;Threat+Architect;Digital+Defender" alt="Typing SVG" />
@@ -10,7 +10,7 @@
 
 ---
 
-## <span style="color:#FF00FF;">🛡️ Cybernetic Sentinel | Threat Architect | Digital Defender</span>
+## <span style="color:#FF00FF;">🛡️ Cybernetic Sentinel | Threat Enthusiast | Digital Defender</span>
 
 <div align="center">
   <img src="https://github.com/uzair-haq/uzair-haq/blob/master/github-metrics.svg" alt="Metrics" width="400">
@@ -118,5 +118,5 @@ Here are some of my notable cybersecurity projects, forged in the digital crucib
   <img src="https://komarev.com/ghpvc/?username=uzair-haq&color=00FFFF&style=for-the-badge&label=NEURAL+CONNECTIONS" />
 </div>
 
-* Pookies codes!*
+* If you wanna buy me a coffie Just get a pet cat ^^ *
 
