@@ -4,7 +4,7 @@
 
 Welcome to my GitHub profile! I'm passionate about cybersecurity, with a focus on defending digital assets and proactively identifying threats. I thrive in dynamic environments, leveraging my analytical skills to protect systems and data.
 
---- 
+---
 
 ### 🚀 My Expertise
 
@@ -33,24 +33,19 @@ Welcome to my GitHub profile! I'm passionate about cybersecurity, with a focus o
 
 Here are some of my notable cybersecurity projects:
 
-- **[Mirana NIDS](https://github.com/uzair-haq/Mirana-NIDS):** A real-time Network Intrusion Detection System built with Go, featuring port scan detection, IP blocking, and a live web dashboard. (This is a placeholder, you can link your actual Mirana NIDS repo here once it's public!)
-- **[Project Name 2]:** [Brief description of Project 2]
-- **[Project Name 3]:** [Brief description of Project 3]
-
-*(Feel free to add more projects here, with links to their repositories!)*
+- **[GhostTagger](https://github.com/uzair-haq/GhostTagger):** An automated offensive web defacement simulation tool for ethical hacking and red team training.
+- **[katana-web-scanner](https://github.com/uzair-haq/katana-web-scanner):** A razor-sharp, comprehensive, automated, and offensive web vulnerability scanner for bug hunting.
+- **[Wifi-Sniffer](https://github.com/uzair-haq/Wifi-Sniffer):** A Python-based Wi-Fi sniffer for network analysis and security auditing.
 
 ### 🎓 Certifications
 
-- [Certification 1] (e.g., CompTIA Security+, CySA+, CEH)
-- [Certification 2]
-
-*(Add your relevant certifications here!)*
+- CompTIA Security+
+- Certified Ethical Hacker (CEH)
 
 ### 🌐 Connect with Me
 
-- **LinkedIn:** [Your LinkedIn Profile URL]
-- **Twitter:** [Your Twitter Profile URL (if applicable)]
-- **Email:** [Your Email Address]
+- **LinkedIn:** https://www.linkedin.com/in/uzair-ul-haq-000605285/
+- **GitHub:** https://github.com/uzair-haq
 
 ---
 
