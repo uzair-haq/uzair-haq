@@ -10,7 +10,7 @@
 
 ---
 
-## <span style="color:#FF00FF;">🛡️ Cybernetic Sentinel | Threat Enthusiast | Digital Defender</span>
+## <span style="color:#FF00FF;">🛡️ Cybernetic Sentinel | Tech Enthusiast | Digital Defender</span>
 
 <div align="center">
   <img src="https://github.com/uzair-haq/uzair-haq/blob/master/github-metrics.svg" alt="Metrics" width="400">
