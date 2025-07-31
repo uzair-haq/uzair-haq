@@ -1,4 +1,4 @@
-# <div align="center">🌐 Welcome to My Keyboard~  🌐</div>
+# <div align="center">🌐 Welcome   🌐</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Uzair+Ul+Haq;Cybernetic+Sentinel;Threat+Architect;Digital+Defender" alt="Typing SVG" />
